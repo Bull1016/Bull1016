@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects that can help me to be a better data scientist.
 - 🤔 I’m looking for help and guidance to develop myself.
 - 💬 Ask me about the football.
-- 📫 How to reach me: [click here to mail me](mailto:octavel679@gmail.com) 
+- 📫 How to reach me: [click here to mail me directly ](mailto:octavel679@gmail.com) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_am_akp_16/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/auguste.akp/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/octavel679)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auguste-akpamoli-0251b51ab/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:octavel679@gmail.com) 
